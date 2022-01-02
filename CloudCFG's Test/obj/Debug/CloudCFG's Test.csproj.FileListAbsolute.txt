@@ -1,0 +1,10 @@
+C:\Users\Fan9\source\repos\CloudCFG's Test\CloudCFG's Test\bin\Debug\CloudCFG's Test.exe.config
+C:\Users\Fan9\source\repos\CloudCFG's Test\CloudCFG's Test\bin\Debug\CloudCFG's Test.exe
+C:\Users\Fan9\source\repos\CloudCFG's Test\CloudCFG's Test\bin\Debug\CloudCFG's Test.pdb
+C:\Users\Fan9\source\repos\CloudCFG's Test\CloudCFG's Test\obj\Debug\CloudCFG's Test.csproj.AssemblyReference.cache
+C:\Users\Fan9\source\repos\CloudCFG's Test\CloudCFG's Test\obj\Debug\CloudCFG_s_Test.Form1.resources
+C:\Users\Fan9\source\repos\CloudCFG's Test\CloudCFG's Test\obj\Debug\CloudCFG_s_Test.Properties.Resources.resources
+C:\Users\Fan9\source\repos\CloudCFG's Test\CloudCFG's Test\obj\Debug\CloudCFG's Test.csproj.GenerateResource.cache
+C:\Users\Fan9\source\repos\CloudCFG's Test\CloudCFG's Test\obj\Debug\CloudCFG's Test.csproj.CoreCompileInputs.cache
+C:\Users\Fan9\source\repos\CloudCFG's Test\CloudCFG's Test\obj\Debug\CloudCFG's Test.exe
+C:\Users\Fan9\source\repos\CloudCFG's Test\CloudCFG's Test\obj\Debug\CloudCFG's Test.pdb
